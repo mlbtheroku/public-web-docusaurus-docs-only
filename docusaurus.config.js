@@ -41,7 +41,7 @@ const config = {
         title: 'Fathym',
         logo: {
           alt: 'Fathym Logo',
-          src: 'https://www.fathym.com/plasmic/new_fathym_com/images/logo.png',
+          src: 'https://www.fathym.com/img/Fathym-logo-aqua-01.png',
         },
         items: [
           {
